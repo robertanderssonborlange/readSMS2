@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">ReadSMS</string>
+    <string name="close">Close app</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="readOnlyContact">Read only sms from contacts</string>
+    <string name="noSMS">No SMS permissions</string>
+    <string name="noContact">No Contact Permission</string>
+    <string name="errorTTS">Error with TTS init!</string>
+    <string name="permissionsInfo">SMS Service Permission required for this app. The app works with limited functions without Contacts permission.</string>
+    <string name="goToSettingsInfo">Go to settings and enable permissions</string>
+    <string name="sender">Sender</string>
+    <string name="message">Message</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close">Avsluta appen</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="readOnlyContact">Läs endast upp sms ifrån kontakter</string>
+    <string name="noSMS">Saknar behörighet: SMS</string>
+    <string name="noContact">Saknar behörighet: Kontaktbok</string>
+    <string name="errorTTS">Fel med uppläsning (TTS)</string>
+    <string name="permissionsInfo">Behörighet: SMS krävs för att appen ska fungera. Appen fungerar med limiterade funktioner utan Behörighet: Kontaktbok</string>
+    <string name="goToSettingsInfo">Aktivera behörigheterna i telefonens inställningar</string>
+    <string name="sender">Avsändare</string>
+    <string name="message">Meddelande</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+</resources>
